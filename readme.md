@@ -9,4 +9,4 @@ In order to run the program:
 
 You should see 3 different camera styles suited to movement tracking - grayscale, black & white, and color
 
-There is also a feature to record any significant camera-movement events in a log for review.
+There is also a feature to record any camera-movement events in a log for review.
